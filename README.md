@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjuseo)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact&title_color=#3bb147)
