@@ -14,8 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  
+</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjuseo&title_color=3bb147&bg_color=000000&text_color=d439ec)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjuseo&title_color=d439ec&bg_color=000000&text_color=3bb147&show_icons=true&icon_color=fafa02)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact&title_color=d439ec&bg_color=000000)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinjuseo&repo=jinjuseo&title_color=d439ec&bg_color=000000&text_color=3bb147)
+
