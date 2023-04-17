@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjuseo&title_color=d439ec&bg_color=000000&text_color=3bb147&show_icons=true&icon_color=fafa02&disable_animations=false)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjuseo&title_color=d439ec&bg_color=000000&text_color=3bb147&show_icons=true&icon_color=fafa02&disable_animations=false)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact&title_color=d439ec&bg_color=000000&disable_animations=false)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact&title_color=d439ec&bg_color=000000&disable_animations=false)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinjuseo&repo=jinjuseo&title_color=d439ec&bg_color=000000&text_color=3bb147)](https://github.com/jinjuseo/jinjuseo)
 
