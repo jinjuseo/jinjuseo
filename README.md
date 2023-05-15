@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinjuseo&layout=compact&title_color=d439ec&bg_color=000000&disable_animations=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinjuseo&repo=jinjuseo&title_color=d439ec&bg_color=000000&text_color=3bb147)](https://github.com/jinjuseo/jinjuseo)
+
 
